@@ -17,3 +17,9 @@ DOM Manipulation: Interact with HTML elements to display guesses, results, and u
 Random Number Generation: Use of Math.random() to generate a random number between 1 and 100.
 Event Handling: Listening for user interactions (click events on the submit button, form submission, and restarting the game).
 Game Logic: Validating user input, checking if the guess matches the random number, and providing feedback.
+
+
+# Output:
+
+![Screenshot 2024-11-09 141127](https://github.com/user-attachments/assets/b908c2e7-4fbd-4ce2-b6d4-60f43adfc0c5)
+
