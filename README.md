@@ -21,5 +21,9 @@ Game Logic: Validating user input, checking if the guess matches the random numb
 
 # Output:
 
-![Screenshot 2024-11-09 141127](https://github.com/user-attachments/assets/b908c2e7-4fbd-4ce2-b6d4-60f43adfc0c5)
+
+
+Uploading Number_Guessing_game.mp4…
+
+
 
